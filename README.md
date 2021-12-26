@@ -6,14 +6,20 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Import numpy
 ### Step 2: 
+Create function 
 ### Step 3: 
-Get the value from the user for the number of rotation
+Define the input type
+
 ### Step 4: 
-Using the slicing concept rotate the list
+Get the value from the user for the number of rotation
+
 
 ### Step 5: 
+Using the slicing concept rotate the list
 ### Step 6: 
+Print the output
 ## Program:
 ~~~
 import numpy as np
